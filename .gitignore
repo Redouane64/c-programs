@@ -1,0 +1,10 @@
+.clang
+.codelite
+*.workspace
+*.project
+*.mk
+*.exe
+*.log
+
+[Dd]ebug
+[Oo]bj
