@@ -1,10 +1,7 @@
-.clang
-.codelite
-*.workspace
-*.project
 *.mk
 *.exe
 *.log
 
+[Bb]in
 [Dd]ebug
 [Oo]bj
